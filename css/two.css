@@ -5,7 +5,7 @@ ul{list-style: none;}
 .fl{float: left;}
 .fr{float: right;}
 .header{width: 110%;height: 100px;background-color: #DEB887;}
-.w{width: 200px;margin:0 auto;}
+.w{width: 980px;margin:0 auto;}
 .logo img{display: block;}
 .banner{width: 112%;background-color: #A9A9A9;}
 .banner img{width: 800px;margin:0 auto;display: block;}
