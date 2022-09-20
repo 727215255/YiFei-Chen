@@ -5,17 +5,17 @@ ul{list-style: none;}
 .fl{float: left;}
 .fr{float: right;}
 .header{width: 110%;height: 100px;background: #5b5136;}
-.w{width: 1000px;margin:0 auto;}
+.w{width: 900px;margin:0 auto;}
 .logo img{display: block;}
 .banner{width: 115%;background: #A9A9A9;}
-.banner img{width: 1117px;margin:0 auto;display: block;}
+.banner img{width: 800px;margin:0 auto;display: block;}
 .two{padding: 20px 0;overflow: hidden;}
 .two img{float: left;margin-right: 20px;}
 .two h1{font-weight: bold;font-size: 36px;letter-spacing: 10px;line-height: 60px;text-indent: 2em;}
 .txt{font-size: 28px;}
 .txt p{padding: 40px;}
 .txt ul{padding-top: 40px;}
-.bg{background: #798371;}
+.bg{background: #A9A9A9;}
 
 
 
